@@ -1,0 +1,5 @@
+pyinstaller
+pywebview; sys_platform != "linux"
+pywebview[gtk]; sys_platform == "linux"
+websockets
+pywinpty; sys_platform == "win32"
