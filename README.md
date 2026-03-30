@@ -1,5 +1,5 @@
 # PROTUX
-A terminal inspired by [cmux](https://cmux.com) but for linux (and maybe windows in the future).
+A terminal inspired by [cmux](https://cmux.com) but for cross-desktop.
 
 ## Why was ths built?
 This was built because I genuinely liked [cmux](https://cmux.com) and how they remade the terminal **but better**. This project was only meant for [cmux](https://cmux.com) but for linux and other platforms (windows and macos).
