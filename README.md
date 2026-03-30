@@ -9,10 +9,10 @@ While, yes. [cmux](https://cmux.com) might be for people who wants to use LLMs l
 2. A way to have `lazygit` and `codex` in the left side, and the other side being a Vite server running.
 
 ## How was this built?
-With heavy testing, prompting, strict rules (with [@AGENT.md](AGENT.md)) and love. Mainly coded with LLM, but treated it as a junior with strict rules and heavy testing.
+With heavy testing, prompting, strict rules (with [@AGENTS.md](AGENTS.md)). Mainly coded with LLM, but treated it as a junior with strict rules and heavy testing.
 
 ### Why with a LLM?
-I wanted to treat this project as a vibe-coded while also keeping it stable, and very easy to use. PROTUX is a vide-coded but stable project made with **Codex**.
+I wanted to treat this project as a vibe-coded while also keeping it stable, and very easy to use. PROTUX is a vibe-coded but stable project made with **Codex**.
 
 Don't fret, I know how to code, and I know what the code does (mostly. At some times, I would forget what they do.) and as I said before, I heavily tested it to keep it stable.
 
@@ -25,10 +25,10 @@ Lets say, you have a horizontal split view terminal. One is for lazy git and tha
 No. This is only meant for your developer project. Not for replacing your already-good terminal.
 
 ## What was handmade and what was LLM made?
-Frontend is mainly human made. Made with Vite + Svelte, and with love. Backend is mainly LLMM made. Went through heavy testing and making sure everything is stable.
+Frontend is mainly human made. Made with Vite + Svelte. Backend is mainly LLM made. Went through heavy testing and making sure everything is stable.
 
 ----
 
-Inspired by [cmux](https://cmux.com).
-Made with [Pyder](https://github.com/PinpointTools/Pyder), [LLM](https://openai.com/codex), and love.
+Inspired by [cmux](https://cmux.com). <br/>
+Made with [Pyder](https://github.com/PinpointTools/Pyder), [LLM](https://openai.com/codex), and love. <br/>
 Made by [Daveberry](https://codedave.pages.dev/).
